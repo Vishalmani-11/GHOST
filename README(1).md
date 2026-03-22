@@ -12,7 +12,9 @@
 
 > scan the network. you won't show up. 👻
 
-![screenshot](screenshot.png)
+
+<img width="825" height="837" alt="2026-03-21_23-44-26" src="https://github.com/user-attachments/assets/d9e2f21e-97aa-42dc-81b3-61f08ea73ce1" />
+
 
 ---
 
