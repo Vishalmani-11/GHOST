@@ -49,8 +49,8 @@ sudo nmap -sn 192.168.x.0/24
 
 ```bash
 # clone it
-git clone https://github.com/VishalM/ghost.py
-cd ghost.py
+git clone https://github.com/VishalM/GHOST
+ls
 
 # run interactive menu
 sudo python3 ghost.py
